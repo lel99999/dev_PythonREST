@@ -12,3 +12,6 @@ $source ./django-01/bin/activate
 (django-01) $pip3 install django
 (django-01) $pip3 install djangorestframework
 ```
+
+#### TODO ####
+- [ ] Put in requirements.txt file
